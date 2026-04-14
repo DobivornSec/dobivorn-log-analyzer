@@ -184,5 +184,3 @@ HTML raporu tarayıcıda açtığında şunları içerir:
 ## ⭐ Star Atmayı Unutma!
 
 Beğendiysen GitHub'da ⭐ bırakmayı unutma!
-
-**Bu kadar!** 🐉
